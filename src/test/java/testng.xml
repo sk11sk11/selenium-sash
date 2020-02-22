@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="regressionSuite">
+  <test name="automateEndtoEnd">
+    <classes>
+      <class name="sashselenium.java.testng.FirstTestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
